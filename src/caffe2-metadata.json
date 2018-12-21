@@ -1176,7 +1176,7 @@
       ],
       "outputs": [
         {
-          "description": "/Users/lutzroeder/Projects/netron/third_party/pytorch/caffe2/operators/quantized/int8_conv_op.cc",
+          "description": "/private/var/folders/n9/387w3nks67lgpncz_ty30t1w0000gn/T/pip-req-build-w_0ceff7/caffe2/operators/quantized/int8_conv_op.cc",
           "name": "Y"
         }
       ],
@@ -1260,7 +1260,7 @@
       ],
       "outputs": [
         {
-          "description": "/Users/lutzroeder/Projects/netron/third_party/pytorch/caffe2/operators/quantized/int8_average_pool_op.cc",
+          "description": "/private/var/folders/n9/387w3nks67lgpncz_ty30t1w0000gn/T/pip-req-build-w_0ceff7/caffe2/operators/quantized/int8_average_pool_op.cc",
           "name": "Y"
         }
       ],
